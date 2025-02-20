@@ -28,9 +28,22 @@ Este projeto utiliza a API de AI Vision Service para realizar o reconhecimento d
 5. Os resultados serão salvos na pasta `output/`.
 
 ## Exemplo de Imagens e Resultados
-![Exemplo de Imagem](inputs/imagem1.jpg)
+![Exemplo de Imagem](inputs/imagem1.jpg) - (https://static.wixstatic.com/media/5e7c2b_117b371013e3480f8d841dc9d8254ba9~mv2.jpeg/v1/fit/w_777,h_582,q_90,enc_avif,quality_auto/5e7c2b_117b371013e3480f8d841dc9d8254ba9~mv2.jpeg)
+
 Resultado extraído:
-- **Texto detectado**: "Texto exemplo da imagem."
+- **Texto detectado**: "Senhor Deputado,
+
+Em atenção ao ofício PS/81 nº 2092/93, de 18.11.93, que encaminhou a Requerimento de Informação nº 276/93, de autoria do Visconde Milândio Minagé, informo que:
+Sobre depoimentos colhidos e falta de acertos tais documentos foram digitalizados e arquivados no sistema do Ministério da Justiça. O acesso a tais documentos está disponível mediante solicitação formal e apresentação de documentação pertinente.
+
+Atenciosamente,
+Maurício Corrêa
+Ministro da Justiça
+
+Senhor
+Roberto Cardoso Alves
+1º Secretário da Primeira Secretaria
+Câmara dos Deputados"
 
 ## Possíveis Melhorias
 - Implementar o reconhecimento de faces.
