@@ -28,7 +28,7 @@ Este projeto utiliza a API de AI Vision Service para realizar o reconhecimento d
 5. Os resultados serão salvos na pasta `output/`.
 
 ## Exemplo de Imagens e Resultados
-![Exemplo de Imagem](inputs/imagem1.jpg) - (https://static.wixstatic.com/media/5e7c2b_117b371013e3480f8d841dc9d8254ba9~mv2.jpeg/v1/fit/w_777,h_582,q_90,enc_avif,quality_auto/5e7c2b_117b371013e3480f8d841dc9d8254ba9~mv2.jpeg)
+![Exemplo de Imagem](https://static.wixstatic.com/media/5e7c2b_117b371013e3480f8d841dc9d8254ba9~mv2.jpeg/v1/fit/w_777,h_582,q_90,enc_avif,quality_auto/5e7c2b_117b371013e3480f8d841dc9d8254ba9~mv2.jpeg) 
 
 Resultado extraído:
 - **Texto detectado**: "Senhor Deputado,
