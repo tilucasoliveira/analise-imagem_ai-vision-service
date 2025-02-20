@@ -45,3 +45,13 @@ Este projeto demonstrou como as APIs de AI Vision podem ser utilizadas para reso
 - ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) - **SDK**
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+### 5. **Subir os arquivos para o GitHub**
+Depois de configurar e testar tudo, faça o commit e o push dos seus arquivos para o GitHub:
+```bash
+git add .
+git commit -m "Adicionando projeto de análise de imagem com AI Vision"
+git push origin main
+```
+
+### Conclusão
+Com essas etapas, você conseguirá entregar o projeto conforme solicitado. Certifique-se de documentar bem o processo e os resultados, além de explicar o aprendizado e as possibilidades de melhorias futuras. Boa sorte no seu projeto!
